@@ -1,7 +1,7 @@
-This is a simple REST API built with Node.js and Express.js, following standard backend development practices.
+This is a simple **REST API** built with **Node.js** and **Express.js**, following standard backend development practices.
 
 
-🚀 Features
+## 🚀 **Features**
 
 CRUD operations (Create, Read, Update, Delete)
 
@@ -16,7 +16,7 @@ Rate limiting to prevent abuse
 Modular route and controller architecture
 
 
-🛠️ Technologies Used
+## 🛠️ **Technologies Used**
 
 Node.js
 
