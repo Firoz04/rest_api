@@ -1,5 +1,6 @@
 This is a simple REST API built with Node.js and Express.js, following standard backend development practices.
 
+
 🚀 Features
 
 CRUD operations (Create, Read, Update, Delete)
@@ -13,6 +14,7 @@ Security middlewares (helmet, hpp, cors, xss-clean)
 Rate limiting to prevent abuse
 
 Modular route and controller architecture
+
 
 🛠️ Technologies Used
 
@@ -32,41 +34,6 @@ express-rate-limit
 
 xss-clean
 
-
-📁 Project Structure
-
-rest_api/
-├── src/
-│   ├── controllers/
-│   │   └── productControllers.js
-│   ├── routes/
-│   │   └── productRoutes.js
-│
-├── app.js
-├── index.js
-├── package.json
-├── .env
-└── README.md
-
-📫 API Endpoints
-
-Base URL
-
-http://localhost:5000/api/v1
-
-Available Routes
-
-Method
-
-Route
-
-Description
-
-POST
-
-/create-product
-
-Create a new product
 
 🛡️ Security
 
